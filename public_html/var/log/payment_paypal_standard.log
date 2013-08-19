@@ -1,0 +1,92 @@
+2013-08-19T13:43:04+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [business] => ****
+            [invoice] => 100000001
+            [currency_code] => AUD
+            [paymentaction] => sale
+            [return] => http://onlynaturals.com.au/paypal/standard/success/
+            [cancel_return] => http://onlynaturals.com.au/paypal/standard/cancel/
+            [notify_url] => http://onlynaturals.com.au/paypal/ipn/
+            [bn] => Varien_Cart_WPS_AU
+            [item_name] => Main Website Store
+            [lc] => en_AU
+            [charset] => utf-8
+            [amount] => 15.00
+            [tax] => 0.00
+            [shipping] => 5.00
+            [discount_amount] => 0.00
+            [item_number_1] => 1111
+            [item_name_1] => chinese green tea
+            [quantity_1] => 1
+            [amount_1] => 10.00
+            [item_number_2] => Flat Rate - Fixed
+            [item_name_2] => Shipping
+            [quantity_2] => 1
+            [amount_2] => 5.00
+            [cmd] => _cart
+            [upload] => 1
+            [tax_cart] => 0.00
+            [discount_amount_cart] => 0.00
+            [city] => wyndham vale
+            [country] => AU
+            [email] => lrkaussie@gmail.com
+            [first_name] => L
+            [last_name] => K
+            [zip] => 3024
+            [state] => vic
+            [address1] => test address
+            [address2] => 
+            [address_override] => 1
+        )
+
+    [__pid] => 987597
+)
+
+2013-08-19T14:09:49+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [business] => ****
+            [invoice] => 100000002
+            [currency_code] => AUD
+            [paymentaction] => sale
+            [return] => http://onlynaturals.com.au/paypal/standard/success/
+            [cancel_return] => http://onlynaturals.com.au/paypal/standard/cancel/
+            [notify_url] => http://onlynaturals.com.au/paypal/ipn/
+            [bn] => Varien_Cart_WPS_AU
+            [item_name] => Main Website Store
+            [lc] => en_AU
+            [charset] => utf-8
+            [amount] => 15.00
+            [tax] => 0.00
+            [shipping] => 5.00
+            [discount_amount] => 0.00
+            [item_number_1] => 1111
+            [item_name_1] => chinese green tea
+            [quantity_1] => 1
+            [amount_1] => 10.00
+            [item_number_2] => Flat Rate - Fixed
+            [item_name_2] => Shipping
+            [quantity_2] => 1
+            [amount_2] => 5.00
+            [cmd] => _cart
+            [upload] => 1
+            [tax_cart] => 0.00
+            [discount_amount_cart] => 0.00
+            [city] => wyndham vale
+            [country] => AU
+            [email] => lrkaussie@gmail.com
+            [first_name] => test
+            [last_name] => test
+            [zip] => 3024
+            [state] => vic
+            [address1] => test address
+            [address2] => 
+            [address_override] => 1
+        )
+
+    [__pid] => 995749
+)
+

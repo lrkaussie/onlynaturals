@@ -1,0 +1,95 @@
+2013-08-19T12:42:06+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.paypal.com/nvp
+    [getPalDetails] => Array
+        (
+            [METHOD] => getPalDetails
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Varien_Cart_EC_AU
+        )
+
+    [response] => Array
+        (
+            [PAL] => XS76QC7KXEGEN
+            [LOCALE] => en_AU
+            [TIMESTAMP] => 2013-08-19T12:42:07Z
+            [CORRELATIONID] => 1a3e541e87b39
+            [ACK] => Success
+            [VERSION] => 72.0
+            [BUILD] => 6855329
+        )
+
+    [__pid] => 969681
+)
+
+2013-08-19T13:38:01+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.paypal.com/nvp
+    [SetExpressCheckout] => Array
+        (
+            [PAYMENTACTION] => Sale
+            [AMT] => 15.00
+            [CURRENCYCODE] => AUD
+            [RETURNURL] => http://onlynaturals.com.au/paypal/express/return/
+            [CANCELURL] => http://onlynaturals.com.au/paypal/express/cancel/
+            [INVNUM] => 100000001
+            [SOLUTIONTYPE] => Sole
+            [GIROPAYCANCELURL] => http://onlynaturals.com.au/paypal/express/cancel/
+            [GIROPAYSUCCESSURL] => http://onlynaturals.com.au/checkout/onepage/success/
+            [BANKTXNPENDINGURL] => http://onlynaturals.com.au/checkout/onepage/success/
+            [LOCALECODE] => en_AU
+            [ITEMAMT] => 10.00
+            [TAXAMT] => 0.00
+            [SHIPPINGAMT] => 5.00
+            [L_NUMBER0] => 1111
+            [L_NAME0] => chinese green tea
+            [L_QTY0] => 1
+            [L_AMT0] => 10.00
+            [BUSINESS] => 
+            [NOTETEXT] => 
+            [EMAIL] => lrkaussie@gmail.com
+            [FIRSTNAME] => Lohit
+            [LASTNAME] => K
+            [MIDDLENAME] => 
+            [SALUTATION] => 
+            [SUFFIX] => 
+            [COUNTRYCODE] => AU
+            [STATE] => vic
+            [CITY] => wyndham vale
+            [STREET] => test address
+            [ZIP] => 3024
+            [PHONENUM] => 0422222222
+            [SHIPTOCOUNTRYCODE] => AU
+            [SHIPTOSTATE] => vic
+            [SHIPTOCITY] => wyndham vale
+            [SHIPTOSTREET] => test address
+            [SHIPTOZIP] => 3024
+            [SHIPTOPHONENUM] => 0422222222
+            [SHIPTOSTREET2] => 
+            [STREET2] => 
+            [SHIPTONAME] => Lohit K
+            [ADDROVERRIDE] => 1
+            [METHOD] => SetExpressCheckout
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Varien_Cart_EC_AU
+        )
+
+    [response] => Array
+        (
+            [TOKEN] => EC-4R414540AE5633035
+            [TIMESTAMP] => 2013-08-19T13:38:01Z
+            [CORRELATIONID] => 395bc63cf3dbc
+            [ACK] => Success
+            [VERSION] => 72.0
+            [BUILD] => 7319395
+        )
+
+    [__pid] => 986318
+)
+
